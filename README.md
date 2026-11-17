@@ -1,11 +1,15 @@
 # Hi, I'm Koushik 👋
 
-Backend & AI engineer who also ships Android apps. I build things that run on your own device, with no cloud, no tracking, and your data staying with you.
+Backend & AI engineer. I build things that run on *your* device: no cloud, no tracking, no "please sign in to continue".
 
-- 📱 Built **SplitPocket**, a full offline budgeting and bill-splitting app for Android, from an empty project to a signed release in 30+ commits
-- 🧠 Building **Kosh**, an agentic RAG system that answers from your documents with clickable citations, running entirely on a local LLM
-- 👁️ Built real-time **face recognition** in the browser with ArcFace, benchmarked against a classical SIFT baseline
-- 🌱 Interested in: local-first AI, LLM agents and evaluation, and apps built for how India actually pays (UPI)
+**What I've been up to:**
+
+- 💸 **Built an app to find out where my salary goes.** Bad news. [SplitPocket](https://github.com/koushik-081/SplitPocket) reads my bank SMS and UPI notifications, files every rupee into an envelope, and splits the Goa trip bill so my friends can't pretend they forgot. *Kotlin · Jetpack Compose · Room*
+- 🧠 **Taught an AI to stop making things up.** [Kosh](https://github.com/koushik-081/kosh) answers from your PDFs, repos and YouTube videos, and cites the exact page, line or timestamp. If it can't find proof, it says "I don't know". Rare, even among humans. *LangGraph · pgvector · Ollama*
+- 👀 **Gave a webcam trust issues.** [Face Recognition](https://github.com/koushik-081/face-recognisation) names whoever walks in. Version 1 used SIFT and was right 63.9% of the time, basically a coin with confidence. Version 2 uses ArcFace and actually knows who you are. *InsightFace · ONNX · FastAPI*
+- 🌫️ **Built a bot that tells me the air is bad.** In India. Groundbreaking. [AQI Reflex Agent](https://github.com/koushik-081/aqi-reflex-agent) pulls live sensor data and does the official CPCB maths so you can sigh with accuracy. *Python · OpenAQ*
+
+**Fun facts:** all of it was built on a CPU-only laptop · my expense app has no internet permission (it can't leak what it can't send) · I've lost more arguments to the Android Gradle plugin than to people.
 
 ---
 
