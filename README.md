@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5b2a86,50:a83279,100:ff9f1c&text=Koushik%20Saraswathula&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=chai-powered%20backend%20%26%20AI%20engineer&descAlignY=55&animation=fadeIn" width="100%" alt="Koushik Saraswathula"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF9F1C&center=true&vCenter=true&width=600&lines=Debugging+since+chai+went+cold...;Building+RAG+agents+that+cite+their+sources;Tracking+where+my+salary+goes+(bad+news);Teaching+webcams+to+recognise+faces;Checking+if+the+air+is+still+bad+(it+is)" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=FF9F1C&center=true&vCenter=true&width=700&lines=Powered+by+chai%2C+Python+and+pure+stubbornness;My+AI+cites+its+sources.+Unlike+WhatsApp+uncles.;Built+an+app+to+track+my+salary.+It+left+anyway.;My+webcam+knows+your+face.+Sorry+about+that.;Everything+runs+offline.+Even+my+social+life." alt="Typing intro"/>
 </p>
 
 # Hi, I'm Koushik 👋
