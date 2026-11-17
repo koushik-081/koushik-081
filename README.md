@@ -98,6 +98,16 @@ A classic simple-reflex AI agent that reads live pollutant data from OpenAQ sens
 
 ---
 
+## 🐍 My contributions, being eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koushik-081/koushik-081/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koushik-081/koushik-081/output/snake.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/koushik-081/koushik-081/output/snake.svg"/>
+</picture>
+
+---
+
 ## 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraswathulakoushik)
